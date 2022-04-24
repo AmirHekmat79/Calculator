@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Courgette, cursive';
+}
+
+body{
+    background:linear-gradient(135deg , #ADA996 , #F2F2F2);
+    height:95vh;
+}
+
+.buttonsContainer{
+    background-color: #2f4f4f;
+    border-radius:5px;
+}
+.specialBtn{
+    width:168px;
+}
+
+.simpleBtn{
+    width:97px;
+}
+
